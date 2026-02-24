@@ -1,0 +1,7 @@
+prompt.txt
+mysecretkeys.py
+main-old.py
+geminiTransport.py
+workspace.xml
+.idea/*
+.venv/*
